@@ -3,18 +3,17 @@ package com.lonzh.crawler.controller;
 /**
  * @ProjectName: Crawler
  * @Package: com.lonzh.crawler.controller
- * @ClassName: ccshi
+ * @ClassName: ceshi222
  * @Description: java类作用描述
  * @Author: qubin
- * @CreateDate: 2019/6/21 21:29
+ * @CreateDate: 2019/6/21 21:46
  * @UpdateUser: 更新者
- * @UpdateDate: 2019/6/21 21:29
+ * @UpdateDate: 2019/6/21 21:46
  * @UpdateRemark: 更新说明
  * @Version: 1.0
  */
-public class ccshi {
+public class ceshi222 {
     public static void main(String[] args) {
-        System.out.println("这是测试11111");
-        System.out.println("123456");
+        System.out.println("测试222222");
     }
 }
