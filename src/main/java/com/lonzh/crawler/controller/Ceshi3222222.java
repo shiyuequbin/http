@@ -15,5 +15,7 @@ package com.lonzh.crawler.controller;
 public class Ceshi3222222 {
     public static void main(String[] args) {
         System.out.println("这是测试222222222");
+        System.out.println("33333333");
+        System.out.println("111111");
     }
 }
