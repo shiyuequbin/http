@@ -15,6 +15,5 @@ package com.lonzh.crawler.controller;
 public class ccshi {
     public static void main(String[] args) {
         System.out.println("这是测试11111");
-        System.out.println("123456");
     }
 }
